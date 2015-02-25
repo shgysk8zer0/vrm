@@ -1,0 +1,9 @@
+[submodule "includes/shgysk8zer0/core"]
+	path = includes/shgysk8zer0/core
+	url = git://github.com/shgysk8zer0/core.git
+[submodule "includes/shgysk8zer0/core_api"]
+	path = includes/shgysk8zer0/core_api
+	url = git://github.com/shgysk8zer0/core_api.git
+[submodule "includes/shgysk8zer0/sockets"]
+	path = includes/shgysk8zer0/sockets
+	url = git://github.com/shgysk8zer0/sockets.git
