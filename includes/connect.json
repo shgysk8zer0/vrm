@@ -1,0 +1,8 @@
+{
+	"user": "vrm_data",
+	"password": "fooBar42",
+	"database": "vrm_data",
+	"type": "mysql",
+	"host": "localhost",
+	"port": 3306
+}
